@@ -29,7 +29,7 @@ ZuiTranslator is a Magisk module that provides localization of Lenovo ZUI Chines
 If you appreciate ZuiTranslator, consider supporting us:\
 • 💖 [Donatello](https://donatello.to/leyrshroud) (Ukraine)\
 • ⛄ [DonationAlerts](https://www.donationalerts.com/r/leyrshroud) (Russian/Balarus, etc.)\
-• ☕ [BuyMeACoffe](https://www.buymeacoffee.com/leyrshroud) (Global)\
+• ☕ [BuyMeACoffe](https://www.buymeacoffee.com/leyrshroud) (Global)
 
 Remember, the primary support is you and your efforts! 🤝\
 Contribute or suggest improvements; let's make ZUI universally accessible! 🚀👩‍💻\
