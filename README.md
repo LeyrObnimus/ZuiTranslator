@@ -2,19 +2,17 @@
 Welcome to the ZUI 15 Localization Magisk module! 🌐✨
 
 # Description
-ZuiTranslator is a Magisk module that provides localization of Lenovo ZUI Chinese firmware into your languages. We localize everything in our eyes (except for full Chinese apps); all for your cozy, home use.
+ZuiTranslator is a Magisk module that provides localization of Lenovo ZUI 15 Chinese firmware into your languages. We localize everything in our eyes (except for full Chinese apps); all for your cozy, home use.
 
 # Features
 • 🌍 ZUI 15 firmware localization support.\
-• 🌐 Multiple language options (currently Russian, upcoming Ukrainian, and more).\
+• 🌐 Multiple language options (currently Russian, in the coming future (with support) - Ukrainian and others).\
 • 🚀 Improve user experience on Chinese firmware.
 
 # How to use
-1. Set localization of your language via ADB (use Termux or other):\
-ㅤ• ✨ `settings put system system_locales ru-RU/uk-UA/etc`\
-ㅤ• 🛠 Or use SetEdit for simplicity.
-2. Install with Magisk Manager.
-3. Reboot your device.
+1. Installation: Install the module via Magisk Manager.
+2. Locale Fix: If necessary for your device, install the forced system locale fix ([List here](https://github.com/LeyrObnimus/ZuiTranslator/blob/main/ListLocaleFixes.md)).
+2. Reboot: Restart your device.
 
 # Notes
 • ❌ No claiming as your own.\
@@ -22,8 +20,8 @@ ZuiTranslator is a Magisk module that provides localization of Lenovo ZUI Chines
 
 # Language Support
 • 🇷🇺 Russian (current)\
-• 🇺🇦 Ukrainian (coming soon)\
-• 🌐 More languages based on community support.
+• 🇺🇦 Ukrainian (maybe in the future)\
+• 🌐 More languages based on community support, the project is hard enough to develop without support.
 
 # Support Us
 If you appreciate ZuiTranslator, consider supporting us:\
@@ -31,6 +29,7 @@ If you appreciate ZuiTranslator, consider supporting us:\
 • ⛄ [DonationAlerts](https://www.donationalerts.com/r/leyrshroud) (Russian/Balarus, etc.)\
 • ☕ [BuyMeACoffe](https://www.buymeacoffee.com/leyrshroud) (Global)
 
-Remember, the primary support is you and your efforts! 🤝\
+# Contribute
 Contribute or suggest improvements; let's make ZUI universally accessible! 🚀👩‍💻\
-Thank you for choosing ZuiTranslator, your assistant to a localized ZUI experience! 🌟
+If the project stops developing, the further development of this sphere will fall on you. The life of the project depends primarily on you. 
+Remember and support the efforts of the participants of such projects, it is not a small effort, whatever it may seem from the outside. Simple words of gratitude are already very pleasant, and financial gratitude motivates even more. 🤝
