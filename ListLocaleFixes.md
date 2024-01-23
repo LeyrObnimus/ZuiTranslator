@@ -1,1 +1,1 @@
-Xiaoxin Pad 2023 (For ZUI 15.0.543) - https://drive.google.com/file/d/1Z59VDL_-Odc4frsnQeNsmgdrEtkqgZjZ/view?usp=sharing (original post - [4PDA](https://4pda.to/forum/index.php?showtopic=1073502&view=findpost&p=127290756))
+Xiaoxin Pad 2023 (For ZUI 15.0.543) - [Download](https://drive.google.com/file/d/1Z3FV71Yl2nZdeBq0IbKDOLWPWiAFWEhE/view?usp=sharing) (original post - [4PDA](https://4pda.to/forum/index.php?showtopic=1073502&view=findpost&p=127290756))
