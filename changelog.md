@@ -1,4 +1,4 @@
-**ZuiTranslator v2.3 Release: Basic update**
+**ZuiTranslator v2.4 Release: Basic update**
 
 🚀 New Features:
 - [ ] New ZuiTranslator v2.4 release! 🆕
