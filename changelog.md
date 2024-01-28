@@ -8,7 +8,7 @@
 
 🎁 List of pre-translated Components:
 
-- ZuiEasySync (ZuiCloud) (not perfect yet; web sections are not changeable) 🆕
+- ZuiEasySync (Lenovo Cloud) (not perfect yet; web sections are not changeable) 🆕
 - ZuiGallery
 - ZuiSettings
 
