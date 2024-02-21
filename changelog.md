@@ -14,4 +14,4 @@
 ... and some corrections.
 
 Also, the old way of fixing it is still available. 🔄
-Note: Some third-party apps with language selection issues may require you to install an additional APK app to activate the test mode. This only applies to devices using the new method, such as XiaoXin Pad Pro 2023 and rare apps like Viber/TikTok. ❗❗
+Note: Some third-party apps with language selection issues may require you to install an additional APK (CtsPreconditions.apk) app to activate the test mode. This only applies to devices using the new method, such as the XiaoXin Pad Pro 2023 and their rare issues in apps like Viber/TikTok, etc. ❗❗❗
