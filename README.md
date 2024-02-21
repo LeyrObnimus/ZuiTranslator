@@ -11,7 +11,6 @@ ZuiTranslator is a Magisk module that provides localization of Lenovo ZUI 15 Chi
 
 # How to use
 1. Installation: Install the module via Magisk Manager.
-2. Locale Fix: If necessary for your device, install the forced system locale fix ([List here](https://github.com/LeyrObnimus/ZuiTranslator/blob/main/ListLocaleFixes.md)).
 2. Reboot: Restart your device.
 
 # Notes
