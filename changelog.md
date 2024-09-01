@@ -7,7 +7,7 @@
 
 🎁 List of pre-translated Components:
 
-- LeFiles (ZuiFileManager) (Still not full-fledged
+- LeFiles (ZuiFileManager) (Still not full-fledged)
 - ZuiSettings
 - ZuiCalendar
 - ZuiNotes
