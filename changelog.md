@@ -11,10 +11,7 @@
    - Resolved issues with locale installation on devices and apps crashes.
    - Updated logic to ensure proper operation of the “Permissions” and “Privacy Dashboard” sections.
    - Enhanced support for recognizing and converting device names into Latin script.
-
-❦ **Under-the-Hood Enhancements:**
-   - Redesigned internal code logic to improve compatibility.
-   - Fixed errors in device parameters (props).
+   - And others... (Full changelog in GitHub repository)
 
 ♛ **Special Thanks for Contributions:**
    - Special thanks to the testers and others for their help: @OrangeSine2, @ru_Rei, @cornet_II – TG; VLAD S, lddnsk.
