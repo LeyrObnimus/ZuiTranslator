@@ -9,8 +9,6 @@
 ❦ **New Features and Changes:**
    - Automatic locale selection by module (ru-RU/ru-RUzhzh) for proper functioning across various devices.
    - Resolved issues with locale installation on devices and apps crashes.
-   - Updated logic to ensure proper operation of the “Permissions” and “Privacy Dashboard” sections.
-   - Enhanced support for recognizing and converting device names into Latin script.
    - And others... (Full changelog in GitHub repository)
 
 ♛ **Special Thanks for Contributions:**
