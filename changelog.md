@@ -1,15 +1,18 @@
-### ✰ ZuiTranslator V3.0 Release: A New Era ✰
+✰ ZuiTranslator V3.1 Release: Updates and Improvements ✰  
+➳ What's New in the Release:  
 
-➳ **What's New in the Release:**
+❦ **Enhancements and Fixes in Translations and Functionality:**  
 
-❦ **Enhancements and Fixes in Translations and Functionality:**
-   - Updated (including for ZUI 15): ZuiPackageInstaller, ZUIPermissionController, ZuiSecurity, ZuiSettings, ZuiFileManager – bugs fixed, translations improved.
-   - Expanded ZUI 16 support for ZuiGallery, ZuiNotes, ZuiHomeSettings, ZuiLauncher, and added new modules: ZuiEngineeringCode, ZuiHealthConnect, ZuiTalkBack, ZuiPenService, ZuiQesdkSysService.
+- Improved logic for recognizing and converting device names into Latin script, with support for new devices.  
+- **ZUI 15 and ZUI 16**: Updated **LeFiles** (ZuiFileManager) for better performance and bug fixes.  
 
-❦ **New Features and Changes:**
-   - Automatic locale selection by module (ru-RU/ru-RUzhzh) for proper functioning across various devices.
-   - Resolved issues with locale installation on devices and apps crashes.
-   - And others... (Full changelog in GitHub repository)
+❦ **New Features and Changes:**  
 
-♛ **Special Thanks for Contributions:**
-   - Special thanks to the testers and others for their help: @OrangeSine2, @ru_Rei, @cornet_II – TG; VLAD S, lddnsk.
+- Expanded device support for ZUI 15 and ZUI 16 devices.  
+
+♛ **Special Thanks for Contributions:**  
+A big thank you to the testers and contributors: @OrangeSine2, @ru_Rei, @cornet_II – TG; VLAD S, lddnsk.  
+
+✯ Thank you for your continued support and helping make this release possible! Designed for your ease of use.  
+
+p.s.: For more detailed updates, please check the older release notes.
