@@ -4,7 +4,7 @@
 ❦ **Enhancements and Fixes in Translations and Functionality:**  
 
 - Improved logic for recognizing and converting device names into Latin script, with support for new devices.  
-- **ZUI 15 and ZUI 16**: Updated **LeFiles** (ZuiFileManager) for better performance and bug fixes.  
+- **ZUI 15 and ZUI 16**: Updated **LeFiles** (ZuiFileManager) to the new current version.
 
 ❦ **New Features and Changes:**  
 
