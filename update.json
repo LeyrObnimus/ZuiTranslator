@@ -1,6 +1,6 @@
 {
-  "version": "3.1",
-  "versionCode": 310,
+  "version": "3.1.2",
+  "versionCode": 312,
   "zipUrl": "https://raw.githubusercontent.com/LeyrObnimus/ZuiTranslator/master/install.zip",
   "changelog": "https://raw.githubusercontent.com/LeyrObnimus/ZuiTranslator/master/changelog.md"
 }
